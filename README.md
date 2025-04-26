@@ -24,8 +24,8 @@ You can see how the model's **decision boundary** evolves and monitor **loss vs.
 ![Decision Boundary](decisionBoundary.png)
 
 - Initial Data Scatter
-- Decision Boundary Plot
 - Loss vs Epochs Plot
+- Decision Boundary Plot
 
 ## 📈 Results
 - Final test accuracy: ~98%
