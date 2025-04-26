@@ -21,7 +21,7 @@ You can see how the model's **decision boundary** evolves and monitor **loss vs.
 ## 📊 Visualizations
 ![Initial Data](initialScatter.png)
 ![Loss vs Epochs](loss.png)
-![Decision Boundary](decision boundary.png)
+![Decision Boundary](decisionBoundary.png)
 
 - Initial Data Scatter
 - Decision Boundary Plot
